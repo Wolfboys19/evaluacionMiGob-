@@ -1,0 +1,15 @@
+:root {
+  font-family: "Assistant", sans-serif;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.87);
+  background-color: #f0f2f5;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+/* body {
+  color: #681b2d;
+  color: #f0f2f5;
+  color: #575053;
+  color: #d7c1ac;
+} */

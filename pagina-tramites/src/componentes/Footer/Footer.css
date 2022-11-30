@@ -1,0 +1,65 @@
+.footer-bottom {
+  background: #681b2d;
+  display: flex;
+  justify-content: space-between;
+  height: 45px;
+}
+
+.footer-bottom ul {
+  list-style: none;
+  margin-left: 150px;
+}
+
+.footer-paragraph {
+  color: #fff;
+  font-size: 20px;
+  margin-left: 225px;
+}
+
+.privacity {
+  border-radius: 2px;
+  cursor: pointer;
+  height: 35px;
+  margin-right: -75px;
+  background: #681b2d;
+  border: none;
+  color: #fff;
+}
+
+.privacity:hover {
+  color: #bf9da5;
+  border: 1px solid #fff;
+}
+
+.facebook {
+  border-radius: 2px;
+  cursor: pointer;
+  color: #fff;
+  height: 34px;
+  width: 54px;
+  padding: 7.5px 15px 5px 17.5px;
+}
+
+.facebook:hover {
+  color: #bf9da5;
+  border: 1px solid #fff;
+}
+
+.twitter {
+  border-radius: 2px;
+  cursor: pointer;
+  color: #fff;
+  height: 34px;
+  width: 54px;
+  padding: 7.5px 15px 5px 17.5px;
+}
+
+.twitter:hover {
+  color: #bf9da5;
+  border: 1px solid #fff;
+}
+
+.social{
+  display: flex;
+  margin-right: 200px;
+}
